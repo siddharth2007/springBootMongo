@@ -8,7 +8,7 @@ public class SpringBootMongoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootMongoApplication.class, args);
-        System.out.println("Hello World");
+        System.out.println("Hello Sid");
     }
     
 
